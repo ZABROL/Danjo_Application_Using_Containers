@@ -1,5 +1,4 @@
 
-Danjo Project Dockerfile
 
 FROM ubuntu
 
